@@ -20,6 +20,7 @@
     "parcel": "^2.0.1"
   },
   "dependencies": {
-    "flatpickr": "^4.6.9"
+    "flatpickr": "^4.6.9",
+    "notiflix": "^3.2.2"
   }
 }

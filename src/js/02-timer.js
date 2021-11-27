@@ -1,51 +1,65 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
-const startBtn = document.querySelector('button[data-start]');
+import { Notify } from 'notiflix/build/notiflix-notify-aio';
+
 const dateInput = document.querySelector('input#datetime-picker');
-const timer = document.querySelector('.timer');
+const startBtn = document.querySelector('button[data-start]');
 startBtn.disabled = true;
+
+let intervalId;
+let selectedDate;
 
 const options = {
   enableTime: true,
   time_24hr: true,
   defaultDate: new Date(),
   minuteIncrement: 1,
-  onClose(selectedDates) {
-    const selectedTime = selectedDates[0].getTime();
-    const currentTime = new Date().getTime();
-
-    const promise = new Promise((resolve) => {});
-
-    if (selectedTime < currentTime) {
-      return window.alert('Please choose a date in the future');
-    }
-
-    startBtn.disabled = false;
-
-    startBtn.addEventListener('click', () => {
-      setInterval(() => {
-        const timeNow = new Date().getTime();
-        const deltaTime = selectedTime - timeNow;
-
-        const timeToEnd = convertMs(deltaTime);
-
-        updateTimer(timeToEnd);
-      }, 1000);
-    });
-  },
+  onClose: onSelectDate,
 };
 
 flatpickr(dateInput, options);
 
-function updateTimer({ days, hours, minutes, seconds }) {
+function onSelectDate(selectedDates) {
+  const currentTime = new Date().getTime();
+  const rawSelectedDate = selectedDates[0].getTime();
+
+  if (rawSelectedDate < currentTime) {
+    return Notify.failure('Please choose a date in the future');
+  } else {
+    selectedDate = rawSelectedDate;
+  }
+
+  startBtn.disabled = false;
+}
+
+startBtn.addEventListener('click', () => {
+  if (intervalId) {
+    clearInterval(intervalId);
+  }
+
+  intervalId = setInterval(() => {
+    const timeNow = new Date().getTime();
+
+    if (selectedDate <= timeNow) {
+      clearInterval(intervalId);
+      return;
+    }
+
+    const timeToEnd = convertMs(selectedDate - timeNow);
+    const timeToEndToString = addLeadingZero(timeToEnd);
+    renderTime(timeToEndToString);
+  }, 1000);
+});
+
+function renderTime({ days, hours, minutes, seconds }) {
   const dateDays = document.querySelector('.value[data-days]');
   const dateHours = document.querySelector('.value[data-hours]');
   const dateMinutes = document.querySelector('.value[data-minutes]');
   const dateSeconds = document.querySelector('.value[data-seconds]');
-  dateDays.textContent = `${days}`;
-  dateHours.textContent = `${hours}`;
-  dateMinutes.textContent = `${minutes}`;
-  dateSeconds.textContent = `${seconds}`;
+  dateDays.textContent = days;
+  dateHours.textContent = hours;
+  dateMinutes.textContent = minutes;
+  dateSeconds.textContent = seconds;
 }
 
 function convertMs(ms) {
@@ -62,6 +76,11 @@ function convertMs(ms) {
   return { days, hours, minutes, seconds };
 }
 
-function addLeadingZero(value) {
-  // padStart();
+function addLeadingZero(time) {
+  return {
+    days: `${time.days}`.padStart(2, '0'),
+    hours: `${time.hours}`.padStart(2, '0'),
+    minutes: `${time.minutes}`.padStart(2, '0'),
+    seconds: `${time.seconds}`.padStart(2, '0'),
+  };
 }
