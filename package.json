@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonPtashynskyi/goit-js-hw-09.git"
+  },
+  "author": "Anton <YOUR_EMAILH>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonPtashynskyi/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/AntonPtashynskyi/goit-js-hw-09#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "flatpickr": "^4.6.9"
+  }
+}
