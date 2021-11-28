@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/AntonPtashynskyi/goit-js-hw-09"
   },
-  "author": "Anton <YOUR_EMAILH>",
+  "author": "Anton a.ptashynskyi@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AntonPtashynskyi/goit-js-hw-09/issues"

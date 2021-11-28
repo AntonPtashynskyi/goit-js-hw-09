@@ -25,7 +25,7 @@
 105C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb132824237792860905 1
 107C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-json\node_modules\json5\dist132824237775640749 1
 97C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-normalize-charset\package.json132824237873520881 0
-58C:\Users\Anton\Documents\GitHub\goit-js-hw-09\package.json132825946210347613 0
+58C:\Users\Anton\Documents\GitHub\goit-js-hw-09\package.json132825948723890016 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\hash.js\lib\hash\ripemd.js121436361000000000 0
 99C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\modules\es.regexp.constructor.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\stream-http\lib\request.js121436361000000000 0
