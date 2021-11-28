@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AntonPtashynskyi/goit-js-hw-09"
+    "url": "git+https://github.com/AntonPtashynskyi/goit-js-hw-09"
   },
   "author": "Anton a.ptashynskyi@gmail.com",
   "license": "ISC",
