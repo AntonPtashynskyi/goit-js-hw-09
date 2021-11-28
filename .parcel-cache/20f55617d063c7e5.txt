@@ -1,4 +1,4 @@
-15989
+15995
 67C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\uuid\bin132824237753613344 1
 104C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\proposals\array-is-template-object.js121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\bcrypt-pbkdf132824237868873524 1
@@ -25,12 +25,12 @@
 105C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb132824237792860905 1
 107C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-json\node_modules\json5\dist132824237775640749 1
 97C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-normalize-charset\package.json132824237873520881 0
-58C:\Users\Anton\Documents\GitHub\goit-js-hw-09\package.json132826007788126452 0
+58C:\Users\Anton\Documents\GitHub\goit-js-hw-09\package.json132826023783493551 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\hash.js\lib\hash\ripemd.js121436361000000000 0
 99C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\modules\es.regexp.constructor.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\stream-http\lib\request.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-normalize-charset\dist132824237769834082 1
-50C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist132825946815548285 1
+50C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist132826022812794413 1
 93C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\events\src\ValueEmitter.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\watcher\src\PromiseRunner.hh121436361000000000 0
 127C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\warning.js121436361000000000 0
@@ -448,7 +448,7 @@
 97C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\stylehacks\dist\plugins\mediaSlash0.js121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\astral-regex132824237862487190 1
 70C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\es-abstract132824237865855249 1
-75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.006301b4.js.map132825946815018614 0
+75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.006301b4.js.map132826022811974875 0
 99C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\stable\string\from-code-point.js121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\sshpk\lib\index.js131837759770000000 0
 63C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\asn1132824237871951776 1
@@ -1722,7 +1722,7 @@
 73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\pull.js121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\nan\nan_json.h132319691410000000 0
 110C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\flatpickr\dist\plugins\confirmDate\confirmDate.d.ts121436361000000000 0
-61C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.html132825946814848699 0
+61C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.html132826022811864920 0
 76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lines-and-columns132824237876439211 1
 75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash.camelcase132824237876429314 1
 91C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@types\node\stream\promises.d.ts132821694670000000 0
@@ -2203,7 +2203,7 @@
 96C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\highlight.js\lib\languages\clojure.js121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\mkdirp\LICENSE121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\word-wrap\README.md131274891740000000 0
-73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.55763276.css.map132825946815018614 0
+73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.55763276.css.map132826008609013221 0
 88C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\es\data-view\index.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\stable\string\index.js121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\parse5\lib\common\unicode.js121436361000000000 0
@@ -2921,7 +2921,7 @@
 80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\fp\stubTrue.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\whatwg-mimetype\lib\parser.js121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\whatwg-mimetype\lib\utils.js121436361000000000 0
-75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.bf6339ef.js.map132825897539221987 0
+75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.bf6339ef.js.map132826013223377580 0
 74C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\qs\lib\utils.js131697106410000000 0
 86C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\helpers\package.json132824237868803564 0
 86C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\type-fest\source\entry.d.ts121436361000000000 0
@@ -3290,7 +3290,7 @@
 94C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\uri-js\dist\esnext\schemes\urn.d.ts121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\uri-js\dist\esnext\schemes\ws.d.ts121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\public-encrypt\test\rsa.2028.pub121436361000000000 0
-74C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.aa8536c6.js132825946814918658 0
+74C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.aa8536c6.js132826022811914894 0
 92C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\stream-browserify\readme.markdown121436361000000000 0
 126C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\guards.js121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lmdb-store\dist\index.js121436361000000000 0
@@ -3658,7 +3658,7 @@
 95C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\core-js\modules\esnext.set.reduce.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\run-parallel\README.md121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\type-fest\source\conditional-keys.d.ts121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.356c6128.js.map132825946815018614 0
+80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.356c6128.js.map132826022812004839 0
 100C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\bl\node_modules\readable-stream\README.md121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\terser\lib\compress\common.js121436361000000000 0
 75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\term-size\vendor132824237759869755 1
@@ -6171,6 +6171,7 @@
 132C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\map-generator.js121436361000000000 0
 124C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\browserify-sign\node_modules\readable-stream\lib\internal\streams132824237758710427 1
 124C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\parse.js121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.55763276.css.map132826022811914894 0
 128C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\processor.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\node_modules\semver\bin132824237748106491 1
 125C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\result.js121436361000000000 0
@@ -6661,6 +6662,7 @@
 76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\pn\test\custom.js130904517810000000 0
 76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\pn\test\timers.js131594848620000000 0
 81C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\pn\scripts\generate.js131594838690000000 0
+81C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.55763276.css132826022811754992 0
 77C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\picomatch\index.js121436361000000000 0
 128C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\picomatch\package.json132824237873680780 0
@@ -6953,7 +6955,7 @@
 76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\onetime\readme.md121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\es-abstract\2015\thisNumberValue.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\es-abstract\2021\Number\index.js121436361000000000 0
-76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.356c6128.js132825946814918658 0
+76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\goit-js-hw-09.356c6128.js132826022811964858 0
 71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\once\LICENSE130752545850000000 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@nodelib\fs.stat\README.md121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\once\once.js131176695710000000 0
@@ -7973,7 +7975,7 @@
 77C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\has-symbols\.nycrc121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\_baseReduce.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\_baseRepeat.js121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.aa8536c6.js.map132825946815018614 0
+78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.aa8536c6.js.map132826022811964858 0
 78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\_baseRest.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\_baseSample.js121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\lodash\_baseSet.js121436361000000000 0
@@ -14437,7 +14439,7 @@
 98C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\dragndrop.js121436361000000000 0
 111C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\element-scroll-methods.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\caniuse-lite\data\features\eot.js121436361000000000 0
-73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.html132825946814918658 0
+73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.html132826022811824948 0
 88C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\lib132824237752563933 1
 73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\ajv.js121436361000000000 0
 106C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\bl\node_modules\readable-stream\CONTRIBUTING.md121436361000000000 0
@@ -14870,7 +14872,7 @@
 82C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\dot\missing.def121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\dot\not.jst121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\dot\pattern.jst121436361000000000 0
-84C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.d4444c20.js.map132825946815018614 0
+84C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.d4444c20.js.map132826022812034818 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\dot\properties.jst121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\dot\required.jst121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\ajv\lib\dot\_limitLength.jst121436361000000000 0
@@ -15236,7 +15238,7 @@
 109C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\generator\node_modules\source-map\README.md131369414900000000 0
 114C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\node_modules\json5\lib\cli.js121436361000000000 0
 118C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\node_modules\json5\lib\index.d.ts121436361000000000 0
-71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.bf6339ef.js132825897539092084 0
+71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.bf6339ef.js132826013223187686 0
 116C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\node_modules\json5\lib\parse.js121436361000000000 0
 120C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\node_modules\json5\lib\stringify.js121436361000000000 0
 115C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\transformer-babel\node_modules\json5\lib\util.js121436361000000000 0
@@ -15385,6 +15387,7 @@
 106C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\package-manager\lib\NodeResolverSync.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\package-manager\lib\Pnpm.js121436361000000000 0
 108C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\package-manager\lib\promiseFromProcess.js121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.97ec195c.css132826013223187686 0
 95C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\package-manager\lib\utils.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\optimizer-svgo\src132824237750625080 1
 136C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\browser.js121436361000000000 0
@@ -15472,7 +15475,7 @@
 76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\graph\lib132824237773461989 1
 80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\graph\LICENSE121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\graph\src132824237773621896 1
-67C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.html132825946814848699 0
+67C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.html132826022812774448 0
 77C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\graph\test132824237772942289 1
 92C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\graph\src\ContentGraph.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@parcel\graph\src\types.js121436361000000000 0
@@ -15866,6 +15869,7 @@
 78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\LICENSE121012626000000000 0
 83C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\node_modules132824237882925497 1
 83C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\package.json132824237868803564 0
+74C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.9fbabdfd.js132826013223197699 0
 81C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\src\config132824237770823510 1
 94C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\src\transformation\util132824237771643032 1
 108C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\@babel\core\src\transformation\util\clone-deep.ts121012626000000000 0
@@ -15976,15 +15980,17 @@
 73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\.bin\uncss.ps1132824237886137900 0
 68C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\.bin\uuid132824237885838077 0
 73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\node_modules\.bin\which.ps1132824237885918031 0
-80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.b4c349ca.js132825897539092084 0
-84C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.b4c349ca.js.map132825897539221987 0
-80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.d4444c20.js132825946814848699 0
-71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.006301b4.js132825946814918658 0
-71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.d68ce209.js132825897539092084 0
-75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.d68ce209.js.map132825897539221987 0
-64C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.html132825946815538291 0
+85C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.97ec195c.css.map132826013223377580 0
+80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.b4c349ca.js132826013223207678 0
+84C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.b4c349ca.js.map132826013223387591 0
+80C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\01-color-switcher.d4444c20.js132826022812014840 0
+71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.006301b4.js132826022811914894 0
+71C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.d68ce209.js132826013223187686 0
+75C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.d68ce209.js.map132826013223387591 0
+64C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\02-timer.html132826022811954876 0
+78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.9fbabdfd.js.map132826013223387591 0
 78C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\03-promises.c34dbbc9.js.map132825910982986343 0
-69C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.53fe7bbc.css132825897539092084 0
-73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.53fe7bbc.css.map132825897539221987 0
-69C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.55763276.css132825946814918658 0
+69C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.53fe7bbc.css132826008491424362 0
+73C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.53fe7bbc.css.map132826008491594311 0
+69C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\index.55763276.css132826008608923263 0
 58C:\Users\Anton\Documents\GitHub\goit-js-hw-09\dist\main.js132824258205620000 0
